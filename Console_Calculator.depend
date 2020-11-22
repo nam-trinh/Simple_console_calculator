@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1606072727 source:c:\users\trinhn2\desktop\calculator\console_calculator\calc.cpp
+	<iostream>
+	"Calc.h"
+	"stddef.h"
+	<cmath>
+
+1606072758 c:\users\trinhn2\desktop\calculator\console_calculator\calc.h
+	<string>
+
+1606086284 source:c:\users\trinhn2\desktop\calculator\console_calculator\main.cpp
+	<iostream>
+	"Calculator.h"
+	<string>
+
+1606085917 source:c:\users\trinhn2\desktop\calculator\console_calculator\calculator.cpp
+	<iostream>
+	"calculator.h"
+	"stddef.h"
+	<cmath>
+
+1606085868 c:\users\trinhn2\desktop\calculator\console_calculator\calculator.h
+	<string>
+
